@@ -1,7 +1,8 @@
 Hi, I’m @Scitinz.
 
-I'm interested in embedded systems and low level computation. I write HDL, as well as code for Raspberry Pi's and similar. I am proficient in other languages as well
-such as C#, Java, and Python to enable higher level interactions, website building, and produce more complex programs not possible at the lower level.
+I'm interested in embedded systems and writing interesting and fun projects. I like being able to play around with Raspberry Pi's and creating my own systems.
+
+I write Python, C, C++, Verilog, SystemVerilog, JavaScript, C#, Java, MATLAB, bash.
 
 <!---
 Scitinz/Scitinz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
